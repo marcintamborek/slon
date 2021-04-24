@@ -7,13 +7,13 @@ section { background: green; width:100%; height: 1080px; float: left; color: whi
 #zd1 {width: 100%; height: 100%; }
 #zd2 {width: 100%; height: 100%; }
 #zd3 {width: 100%; height: 100%; }    
-aside { background: orange; width:100%; height: 2700px; float: left;}
-#kwadrata { background: orange; width:15%; height: 25%; float: left;}
-#kwadratb { background: orange; width:15%; height: 25%; float: left;}
-#kwadrat1 { background: orange; width:70%; height: 25%; float: left;}
-#kwadrat2 { background: orange; width:100%; height: 25%; float: left;}
-#kwadrat3 { background: orange; width:100%; height: 25%; float: left;}
-#kwadrat4 { background: orange; width:70%; height: 25%; float: left;}
+aside { background: orange; width:100%; height: 2360px; float: left;}
+#kwadrata { background: orange; width:15%; height: 540px; float: left;}
+#kwadratb { background: orange; width:15%; height: 5400px; float: left;}
+#kwadrat1 { background: orange; width:70%; height: 540px; float: left;}
+#kwadrat2 { background: orange; width:100%; height: 640px; float: left;}
+#kwadrat3 { background: orange; width:100%; height: 640px; float: left;}
+#kwadrat4 { background: orange; width:70%; height: 540px; float: left;}
 footer { background: blue; width:100%; height: 2%; clear: both; color: white; text-align: center; font: 14px Arial; }
 p { font: 15px Arial, sans-serif; color: white; text-align: left; }
 	* {
